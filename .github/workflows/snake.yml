@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ArpitKaushik2025
+          github_user_name: arpit-ka
           outputs: |
             ./assets/snake-dark.svg
           theme: dark
